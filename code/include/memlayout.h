@@ -1,0 +1,8 @@
+#ifndef MEMLAYOUT_H
+#define MEMLAYOUT_H
+
+#define KERNELBASE 0xc0000000
+#define PHY_MEM_TOP 0x30000000
+#define DEVSPACE 0xfe000000
+
+#endif
