@@ -1,6 +1,4 @@
-# Zero Operating System
-
-#### 介绍
-基于x86平台的类Unix简易操作系统内核
-该操作系统是我的大学本科毕业设计，由我和我的小伙伴分为两个课题完成，我负责内核中的硬件驱动、内存管理和文件系统。
-master分支是我负责部分的代码，cooper分支是组装后的代码。两个分支都可以运行，但只有cooper分支中的是完整的操作系统。
+#### Introduction
+A simplified Unix-like operating system kernel based on the x86 platform.
+This operating system was my undergraduate graduation project, completed by me and my partner as two separate sub-projects. I was responsible for the hardware drivers, memory management, and file system within the kernel.
+The `master` branch contains the code I was responsible for, while the `main` branch contains the assembled code. Both branches are runnable, but only the `main` branch contains the complete operating system.
